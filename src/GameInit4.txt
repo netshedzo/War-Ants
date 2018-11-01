@@ -1,0 +1,7 @@
+How Many Ant Groups =1
+Name Of each Queen =Moses 
+How Many Ants For each Group =25
+How many Plants Intialized =20
+Give the Size Of the Game in(w h) =1366 700
+Give the position of the bug in (x y) =70 70
+
